@@ -75,7 +75,8 @@ The player can move freely around the entire map to explore and survive while av
 3. The player must **explore the environment and shoot zombies**.
 4. Each zombie requires **two bullets to be killed**.
 5. If a zombie reaches the player, it **attacks and reduces player health**.
-6. The player survives until **health reaches zero**.
+6. On every zombie kill, the amount of bullet gets **decrease by 5**
+7. The player survives until **health reaches zero**.
 
 ---
 
