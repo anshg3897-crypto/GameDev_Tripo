@@ -54,7 +54,7 @@ The player can move freely around the entire map to explore and survive while av
 | Attribute | Value |
 |----------|------|
 | Health | 100 HP |
-| Ammo | 32 Bullets |
+| Ammo | 100 Bullets |
 | Weapon | Gun |
 | Movement | Free movement in jungle map |
 
